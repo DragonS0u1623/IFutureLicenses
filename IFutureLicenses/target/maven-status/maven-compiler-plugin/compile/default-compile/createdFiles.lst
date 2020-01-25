@@ -1,0 +1,9 @@
+com\dragons0u1\ifuture\managers\PlayerLicenses.class
+com\dragons0u1\ifuture\listeners\InventoryClickListener.class
+com\dragons0u1\ifuture\commands\LicenseCommands.class
+com\dragons0u1\ifuture\helpers\VaultHelper.class
+com\dragons0u1\ifuture\managers\License.class
+com\dragons0u1\ifuture\ui\LicenseUI.class
+com\dragons0u1\ifuture\IFutureLicenses.class
+com\dragons0u1\ifuture\listeners\LicenseClickListener.class
+com\dragons0u1\ifuture\utils\Utils.class

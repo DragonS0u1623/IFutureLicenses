@@ -1,0 +1,11 @@
+name: IFutureLicenses
+version: ${project.version}
+api: Spigot
+api-version: 1.12.2
+main: com.dragons0u1.ifuture.IFutureLicenses
+authors: [IfutureStudios]
+
+commands:
+  license:
+    description: Main command that handles all license usage
+    usage: license <check:add:delete:give:remove> <license:player> <license>
